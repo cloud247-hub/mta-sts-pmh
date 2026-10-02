@@ -1,1 +1,4 @@
-
+version: STSv1
+mode: enforce
+mx: pmhvent-no.w-v1.mx.microsoft
+max_age: 604800
